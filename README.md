@@ -1,41 +1,22 @@
-# Profit Robots MQL5 (MT5/MetaTrader 5) code snippets for Visual Studio Code
+﻿# VS Code MQ5 Snippets
 
-Full list of available code snippets could be found [here](https://github.com/sibvic/vsc-mq5-snippets/wiki/Snippets)
+VS Code snippets for MQL5.
 
-## Related projects
+![MetaTrader](https://img.shields.io/badge/MetaTrader-MQL5%20%7C%20MT5-green)
 
-[Lint utility for indicators/strategies](https://github.com/sibvic/fxlint)
+## What it does
 
-[Injection of includes into MQL4/5](https://github.com/sibvic/MQ4Inject)
+Editor snippets for MetaTrader 5 development.
 
-[Automatic Trade Script Converter App](https://www.microsoft.com/en-us/p/pinescript-converter/9mwmkf7bmqgn?activetab=pivot:overviewtab) and [WebApp](https://convert.profitrobots.com)
+## Tech stack
 
-[Trade Copier Source](https://github.com/sibvic/trade_copier)
+JSON/Snippets
 
-### Templates
+## How to use
 
-[FXTS2](https://github.com/sibvic/fxts2-templates) 
+Install extension or copy snippets into VS Code.
 
-[PineScript/TradingView](https://github.com/sibvic/pinescript-templates) 
+---
 
-[MT4/MQL4](https://github.com/sibvic/mq4-templates) 
+**Part of [Yousuf Mesalm](https://github.com/dryousufmesalm) â€” Trading system engineer, full stack quant developer.**
 
-[MT5/MQL5](https://github.com/sibvic/mq5-templates) 
-
-[NT8/Ninja Trader 8](https://github.com/sibvic/nt8-templates)
-
-### Code Snippets for Visual Studio Code
-
-[MT4/MQL4](https://github.com/sibvic/vsc-mq4-snippets) 
-
-[MT5/MQL5](https://github.com/sibvic/vsc-mq5-snippets) 
-
-[Indicore](https://github.com/sibvic/vsc-indicore)
-
-[NinjaTrader8](https://github.com/sibvic/vsc-nt8-snippets)
-
-## Donations gratefully accepted.
-
-* [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/sibvic)
-
-Or support us on [Patreon](https://www.patreon.com/profitrobots)
